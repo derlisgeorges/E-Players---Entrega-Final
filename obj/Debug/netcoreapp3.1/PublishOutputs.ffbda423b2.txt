@@ -1,0 +1,51 @@
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\E-Players_AspNETCore.exe
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\css\style.css
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\favicon.ico
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\3vo5p9L.png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\7d4abd5c1bd9a899083a60e4ccaf5c2d.png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\9a6e4f50b0d94f75ce274348f06a6d56.png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\cadastro.png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\CBLOL_2017.png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\download (1).png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\download (2).png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\download (3).png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\download (4).png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\download (5).png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\download (6).png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\download (7).png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\download (8).png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\download (9).png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\download.png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\FLA.png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\Liga_Master_Fibertel.png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\Logo.svg
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\lol-champions-png-8.png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\meta_mundo.jpg
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\nVBwTfr.png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\SK.png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\SuperLigaABCDE.png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\Teams\T1.jpeg
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\Teams\T10.jpg
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\Teams\T2.jpg
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\Teams\T3.jpeg
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\Teams\T4.jpg
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\Teams\T5.jpeg
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\Teams\T6.jpg
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\Teams\T7.jpeg
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\Teams\T8.jpg
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\Teams\T9.jpeg
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\wgr_lplol-logo-2020-71fc5702eb0473cb8d1da98fc28d054bebbfa505d4d80b457b11754d8a737255.png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\Images\worlds-logo-gold.png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\img\Equipes\download (4).png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\img\Equipes\download (6).png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\img\Equipes\FLA.png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\img\Equipes\padrao.png
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\wwwroot\js\site.js
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\appsettings.json
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\E-Players_AspNETCore.dll
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\E-Players_AspNETCore.deps.json
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\E-Players_AspNETCore.runtimeconfig.json
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\E-Players_AspNETCore.pdb
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\E-Players_AspNETCore.Views.dll
+C:\Users\fic\Desktop\E-Players_AspNETCore-main\bin\Debug\netcoreapp3.1\publish\E-Players_AspNETCore.Views.pdb
